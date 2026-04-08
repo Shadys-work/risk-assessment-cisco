@@ -25,5 +25,4 @@ For now, I have chosen their Cisco catalyst service and their Cisco IOS and IOS 
 <h5> Cisco Catalyst </h5>
 At the time of reading the Cisco's DNA center and Catalyst, It was quite smart the idea Cisco had in mind. The issue they tackled using Cisco Catalyst is an identity and policy issue. Since every device is assigned a vlan to the physical area they are in, which means every place has its own policies and what the device has access to, its hard to transmit data or preform actions in other in real life places where such policies don't exist or are restrictive. Catalyst solves this by assigning the device its own seperate identity aside from its location using Locator/ID Separation Protocol (LISP). This allowed the user to be bounded by the policies implenented on their identity instead of their location.
 
-<h5>Cisco IOS</h5>
 
